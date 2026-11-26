@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Full-Stack-Web-Development-Frameworks/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Full-Stack-Web-Development-Frameworks?style=social" alt="GitHub stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Full-Stack-Web-Development-Frameworks/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Full-Stack-Web-Development-Frameworks?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Full-Stack-Web-Development-Frameworks/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Full-Stack-Web-Development-Frameworks?style=social" alt="GitHub forks" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
@@ -68,11 +68,11 @@ Below is the verified breakdown of leading commercial hosting platforms and deve
 
 ## 💻 Open-Source GitHub Frameworks & PaaS
 
-Every featured open-source project below includes its live GitHub social star badge linked directly to the stargazers page.
+Every featured open-source project below includes its live GitHub social Stars_Badge linked directly to the stargazers page.
 
 *Sorted descending by GitHub stargazer count.*
 
-| 📦 Project | ⭐ Stars | 📜 License / Pricing | 🎁 Free Tier / Self-Hosted Limit | 📝 Description |
+| 📦 Project | ⭐ GitHub_Stars | 📜 License / Pricing | 🎁 Free Tier / Self-Hosted Limit | 📝 Description |
 | :--- | :---: | :--- | :--- | :--- |
 | **[Next.js](https://nextjs.org/)** (`vercel/next.js`) | [![Next.js Stars](https://img.shields.io/github/stars/vercel/next.js?style=social&color=white)](https://github.com/vercel/next.js/stargazers) | **MIT License** ($0 Open-Source) | **100% Free Forever**: Full self-hosting on Docker, Node.js, VPS, or serverless with zero restrictions. | ⚛️ The industry-standard React full-stack framework with App Router, Server Actions, hybrid SSR/SSG, and edge middleware. |
 | **[Supabase](https://supabase.com/)** (`supabase/supabase`) | [![Supabase Stars](https://img.shields.io/github/stars/supabase/supabase?style=social&color=white)](https://github.com/supabase/supabase/stargazers) | **Apache-2.0 License** ($0 Open-Source) | **100% Free Forever Self-Hosted**: Unlimited PostgreSQL databases, Auth, Realtime, Storage, and Edge Functions. | ⚡ Open-source Firebase alternative providing a dedicated PostgreSQL database with Realtime subscriptions, Auth, and Storage. |
